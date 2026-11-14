@@ -86,9 +86,11 @@ npm test
 
 ## 根拠（学習）
 
-| 機能 | 裏付けになる学習（発行元・名称・発行日） | 照会先（Credly） |
-|---|---|---|
-| 制度探索と試算のWebアプリ（HTML・JavaScript） | Amazon Web Services Training and Certification「AWS Educate Web Builder - Training Badge」2025年6月1日 | https://www.credly.com/badges/3bd77395-4312-43b5-bcf7-4c07cb57bdd2 |
+| 求められる力 | 機能 | 裏付けになる学習（発行元・名称・発行日） | 照会先（Credly） |
+|---|---|---|---|
+| ソフトウェア開発（テスト・CI・コンテナ） | 制度探索と試算のWebアプリ（HTML・JavaScript） | Amazon Web Services Training and Certification「AWS Educate Web Builder - Training Badge」2025年6月1日 | https://www.credly.com/badges/3bd77395-4312-43b5-bcf7-4c07cb57bdd2 |
+
+「求められる力」の分け方は、[プロフィール](https://github.com/takashi-101) の「FDE・AXで求められる力と、その根拠」と同じです。
 
 ## ライセンス
 
