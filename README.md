@@ -84,6 +84,12 @@ npm test
 - 税・会計上の利益、資金調達、費目別の全条件、特例のすべてを再現した申請エンジンではありません。新設法人の資料、株主構成、親会社の制度上の規模、従業員数、雇用保険・事業者登録は、申請者ごとに確認が必要です。
 - 第三者資料の著作権は各権利者に帰属します。
 
+## 根拠（学習）
+
+| 機能 | 裏付けになる学習（発行元・名称・発行日） | 照会先（Credly） |
+|---|---|---|
+| 制度探索と試算のWebアプリ（HTML・JavaScript） | Amazon Web Services Training and Certification「AWS Educate Web Builder - Training Badge」2025年6月1日 | https://www.credly.com/badges/3bd77395-4312-43b5-bcf7-4c07cb57bdd2 |
+
 ## ライセンス
 
 ライセンス：MIT（[LICENSE](LICENSE)）。第三者資料の著作権は、上記のとおり各権利者に帰属します。
