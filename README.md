@@ -1,5 +1,7 @@
 # 補助金・助成金ガイド
 
+[![tests](https://github.com/takashi-101/funding-guide/actions/workflows/tests.yml/badge.svg)](https://github.com/takashi-101/funding-guide/actions/workflows/tests.yml)
+
 ## 概要（30秒で読めます）
 
 - **問い**：AI導入・人材育成に使える公的制度を、受給者の違う資金や対象外の費用を足し合わせずに、どう整理し、どう試算するか。
